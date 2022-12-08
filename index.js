@@ -1,1 +1,3 @@
-const var1 = 2;
+'use strict';
+
+console.log('123');
